@@ -1,3 +1,5 @@
+**async-ringbuf has been merged into original [ringbuf](https://github.com/agerasev/ringbuf/tree/master/async)**
+
 # async-ringbuf
 
 [![Crates.io][crates_badge]][crates]
